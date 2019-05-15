@@ -1,0 +1,21 @@
+/*------HOME---- */
+#home{
+    background-image: url('../img/bg-home.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 91.5vh;
+}
+.mask{
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.hvr-underline-from-center:before{
+    background: white;
+}
+/*------CONTATO---- */
+#contato{
+    background-image: url('../img/bg-cont.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 91.5vh;
+}
